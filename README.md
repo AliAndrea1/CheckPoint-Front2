@@ -3,12 +3,12 @@
 
 Este é um projeto de checkpoint da disciplina de Front-End. Desenvolvemos um site para a vinheria Agnello que contém seis páginas/arquivos em html e css:
 
-A página principal com um catálogo dos vinhos e imagem de promoção;
-A página de "Sobre", onde mostra quem somos e o nosso objetivo;
-A página de "Vinhos" em que oferecemos orientação sobre as melhores escolhas de vinhos para diferentes ocasiões;
-A página de "Lojas", onde contém todos os endereços da Vinheria Agnello;
-A página de login (para acessá-la, basta clicar no ícone de perfil, no canto superior direito da tela) para os clientes da empresa;
-E a página de cadastro (para acessá-la, basta clicar no ícone de perfil, que abrirá a tela de login, e depois apertar o botão "Cadastre-se").
+- A página principal com um catálogo dos vinhos e imagem de promoção;
+- A página de "Sobre", onde mostra quem somos e o nosso objetivo;
+- A página de "Vinhos" em que oferecemos orientação sobre as melhores escolhas de vinhos para diferentes ocasiões;
+- A página de "Lojas", onde contém todos os endereços da Vinheria Agnello;
+- A página de login (para acessá-la, basta clicar no ícone de perfil, no canto superior direito da tela) para os clientes da empresa;
+- E a página de cadastro (para acessá-la, basta clicar no ícone de perfil, que abrirá a tela de login, e depois apertar o botão "Cadastre-se").
 
 O nosso projeto contém imagens, tabela, formulário, hyperlinks, listas, transformações, transições e animações. Incorporamos a estilização com CSS e desenvolvemos com HTML Semântico, fundamento muito importante para a organização do código.
 
